@@ -1,0 +1,34 @@
+Listado de preguntas, al proyecto “Máquina Vending” del grupo Beta por parte del grupo Gamma:
+
+1.-)¿Qué mecanismo de venta usaréis? (Muelle de acero, gancho, etcétera)
+
+2.-)¿Qué tipo de ítems vais a vender? ¿Qué tamaño tendrán estos?
+
+3.-)En caso de quedaros fuera de stock; ¿Cómo llevaréis a cabo la reposición de un ítem?
+
+4.-)¿Qué medidas tendrá vuestra máquina?
+
+5.-)Tenéis un método de devolución de monedas ,pero ;¿Qué haría la máquina en caso de quedarse sin ellas?(Ejemplo : la máquina no tiene monedas de 5,10,20 ó 50 céntimos. El usuario mete 1€; y compra un ítem de 40 céntimos).
+
+6.-)¿Cómo actuará la máquina frente a posibles errores? (Un ítem no cae)
+
+7.-)¿Qué ocurre en caso de introducir un número sin haber introducido antes el dinero?
+7.1-)En caso de que muestre el valor del producto; ¿Si el usuario insertase el dinero en ese momento, sería expendido dicho ítem? 
+
+8.-)¿Qué peso tendrá la máquina?
+
+9.-)¿Qué tiempo de respuesta consideráis óptimo ?(Velocidad de ejecución)
+
+10.-)¿Qué porcentaje de fiabilidad queréis alcanzar?(Tasa aceptable de fallos)
+
+11.-)¿Qué capacidad de almacenamiento tendrá vuestra máquina de vending ? (Cuantos ítems habrá en cada “slot”)
+
+12.-)¿Cual será el tiempo de reinicio después de un fallo?
+
+13.-)¿Tendréis algún sistema para asegurar que el producto no sufra daños cuando sea expendido?
+
+14.-)¿De qué forma podrá el usuario coger el ítem solicitado? (Puerta, ranura, etcétera)
+
+15.-)En caso de aceptar billetes;¿Cual sería el billete mas grande que vuestra máquina aceptaría? ¿Y la moneda mas pequeña?
+
+16.-)¿Cada cuanto tiempo será revisada la máquina?(Puesta a punto, renovación del cambio de la máquina, etcétera)
