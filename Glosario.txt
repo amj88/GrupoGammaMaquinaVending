@@ -1,0 +1,9 @@
+Glosario de Términos:
+	
+-Display: Pantalla que mostrará al ususario información relativa del producto y de la propia máquina de vending.
+-Muelle de acero: Mecanismo que utilizará la máquina para impulsar el producto hacia la parte inferior donde estará la bandeja.
+-Stock: Número de unidades de un producto que están disponibles.
+-Item: Producto que dispensará nuestra máquina.
+-Acolchado de protección: Recubrimiento de goma aplicado a la bandeja que impedirá el daño producido por la caída de los elementos.
+-Identificador de producto: Número de dos cifras que se le asociará a cada producto y hará referencia de él para su posterior selección.
+
